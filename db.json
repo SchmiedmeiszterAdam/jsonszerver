@@ -13,6 +13,34 @@
             "cim": "Apám kakasa",
             "ar": "3200",
             "kategoria": "vers"
+        },
+        {
+            "id": 3,
+            "nev": "Joseph Heller",
+            "cim": "A 22-es csapdája",
+            "ar": "3900",
+            "kategoria": "vers"
+        },
+        {
+            "id": 4,
+            "nev": "Norman Mailer",
+            "cim": "Meztelenek és holtak",
+            "ar": "2100",
+            "kategoria": "vers"
+        },
+        {
+            "id": 5,
+            "nev": "Irwin Shaw",
+            "cim": "Oroszlánkölykök",
+            "ar": "800",
+            "kategoria": "vers"
+        },
+        {
+            "id": 6,
+            "nev": "Pierre Boulle",
+            "cim": "Híd a Kwai folyón",
+            "ar": "6800",
+            "kategoria": "vers"
         }
     ],
     "szerzo": [
